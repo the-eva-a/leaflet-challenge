@@ -6,7 +6,7 @@ The Earthquake Visualization Dashboard is an interactive web application built u
 
 ## How to Use
 
-1. Open the deployed dashboard on GitHub Pages.
+1. Open the deployed dashboard on [GitHub Pages](https://the-eva-a.github.io/leaflet-challenge/).
 2. View the world map with earthquake markers.
 3. Click on any marker to view additional details about the earthquake, such as location, magnitude, and depth.
 
